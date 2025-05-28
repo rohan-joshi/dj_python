@@ -1,0 +1,6 @@
+librosa>=0.10.0
+pydub>=0.25.1
+scipy>=1.9.0
+numpy>=1.21.0
+soundfile>=0.12.1
+mutagen>=1.46.0
